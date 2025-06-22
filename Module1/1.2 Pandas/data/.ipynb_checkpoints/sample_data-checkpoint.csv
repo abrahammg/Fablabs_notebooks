@@ -1,0 +1,9 @@
+Name,Age,City,Score,Passed,Enrollment Date
+Ana,23,Santiago,88,True,2023-09-01
+Brais,24,Vigo,92,True,2023-09-02
+Carlos,22,Ourense,75,False,2023-09-01
+Diana,25,Lugo,95,True,2023-09-03
+Elena,21,Coruña,81,True,2023-09-02
+Fernando,26,Ferrol,78,False,2023-09-01
+Gema,23,Pontevedra,85,True,2023-09-04
+Hugo,24,Lalín,90,True,2023-09-03
